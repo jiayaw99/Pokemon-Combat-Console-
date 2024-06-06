@@ -1,0 +1,8 @@
+PVP Round 1:Team A win  Team A pokemon:Cubchoo  Totodile  Piplup   Team B pokemon:Bulbasaur  Pidgey  Charmander
+PVE Round 1:Team A win  Team A pokemon:Spearow  Pidgey  Snorunt   Team B pokemon:Cyndaquil  Bulbasaur  Chimchar
+PVP Round 2:Team A win  Team A pokemon:Piplup  Bergmite  Chikorita   Team B pokemon:Pidgey  Cubchoo  Oshawott
+PVE Round 2:Team B win  Team A pokemon:Bulbasaur  Chimchar  Pidove   Team B pokemon:Spearow  Piplup  Totodile
+PVE Round 3:Team A win  Team A pokemon:Starly  Bulbasaur  Pidgey   Team B pokemon:Bergmite  Snorunt  Chikorita
+PVE Round 4:Team B win  Team A pokemon:Vanillite  Piplup  Bulbasaur   Team B pokemon:Pidgey  Drampa  Snorunt
+PVE Round 5:Team B win  Team A pokemon:Starly  Totodile  Oshawott   Team B pokemon:Bergmite  Cyndaquil  Turtwig
+PVP Round 3:Team B win  Team A pokemon:Bulbasaur  Squirtle  Totodile   Team B pokemon:Piplup  Turtwig  Chikorita
